@@ -8,7 +8,7 @@
 
 系列型内容会优先合并成主题合集，例如 `50个 Nano Banana 创意提示词` 和 `Nano Banana PPT 场景提示词合集`，避免仓库目录被大量零散短提示词打散。
 
-近期补充重点来自 `05-Prompts/Generators`、`05-Prompts/Meta`、`05-Prompts/GEO`、`05-Prompts/Scenarios/Learning` 和 `05-Prompts/Products/AIJingzhun`：新增了合同生成、产品原型、网页 PPT V3、公众号 HTML、Schema.org GEO、网页逆向、费曼提问学习、批判思维，以及 AI精准 36 个智能体等实战提示词。
+近期补充重点来自 `05-Prompts/Generators`、`05-Prompts/Meta`、`05-Prompts/GEO`、`05-Prompts/Scenarios/Learning` 和 `05-Prompts/Products`：新增了合同生成、产品原型、网页 PPT V3、公众号 HTML、Schema.org GEO、网页逆向、费曼提问学习、批判思维，以及 36 个内容与运营类实战提示词。
 
 ## 重点推荐
 
@@ -16,7 +16,7 @@
 
 ## 专题入口
 
-**[AI精准 36 个提示词 V2.1](prompts/06-ai-content/README.md)**：从 AIJingzhun 产品提示词包拆分出的 36 个智能体，已直接并入 `prompts/06-ai-content/`，按 `aijingzhun-01` 到 `aijingzhun-36` 排序，覆盖短视频文案、人设风格、平台专精、行业垂直、直播转化、私域成交、AI 绘画、数据复盘和爆款重构。
+**[36 个内容与运营提示词](prompts/06-ai-content/README.md)**：新增提示词已直接并入 `prompts/06-ai-content/`，采用与仓库其他提示词一致的文件命名方式，覆盖短视频文案、人设风格、平台运营、行业内容、直播转化、私域成交、AI 绘画、数据复盘和爆款重构。
 
 ## 仓库结构
 
@@ -41,7 +41,7 @@ CONTRIBUTING.md         # 贡献和持续迭代规则
 | AI学习 | 11 | 学习方法、记忆术、费曼提问、习惯养成和学习助理。 |
 | AI生活 | 2 | 健康、亲子歌曲等生活场景。 |
 | AI教育 | 4 | 儿童教育、互动学习页面和小游戏创作。 |
-| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、AI精准智能体、图像和 PPT 创意。 |
+| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
 | AI编程 | 1 | 架构设计和编程协作。 |
 | AI营销 | 3 | GEO 内容生成、改写、Schema.org 结构化数据和营销增长。 |
 | AI思考 | 3 | 批判思维、记忆、标题和思维类灵感提示词。 |

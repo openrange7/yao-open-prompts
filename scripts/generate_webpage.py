@@ -33,7 +33,7 @@ CATEGORY_DESCRIPTIONS = {
     "AI学习": "学习方法、记忆术、费曼提问、习惯养成",
     "AI生活": "健康、亲子、生活创作",
     "AI教育": "儿童教育、互动学习页面、小游戏生成、教学活动",
-    "AI内容": "写作、润色、标题、公众号HTML、短视频、AI精准智能体、图像",
+    "AI内容": "写作、润色、标题、公众号HTML、短视频、内容运营、图像",
     "AI编程": "架构设计、系统方案、开发协作",
     "AI营销": "GEO文章生成、Schema.org结构化数据、AI搜索优化",
     "AI思考": "批判思维、记忆宫殿、标题灵感、思维工具",
@@ -91,12 +91,12 @@ REPRESENTATIVE_SLUGS = {
         "child-game-shark-fish",
     ],
     "AI内容": [
-        "aijingzhun-01-hook-opening-copy",
-        "aijingzhun-04-spoken-viral-script",
-        "aijingzhun-11-topic-planner",
-        "aijingzhun-13-douyin-viral-planner",
-        "aijingzhun-30-xiaohongshu-graphic-expert",
-        "aijingzhun-35-content-data-review-diagnostician",
+        "hook-opening-copy",
+        "spoken-viral-script",
+        "topic-planner",
+        "douyin-viral-planner",
+        "xiaohongshu-graphic-expert",
+        "content-data-review-diagnostician",
         "humanized-writing-v2",
         "humanized-writing-polish-v3",
         "knowledge-base-writing-rebuilder",
@@ -131,10 +131,10 @@ FEATURED_SLUGS = [
 COLLECTIONS = [
     {
         "kicker": "专题入口",
-        "title": "AI精准 36 个提示词 V2.1",
-        "description": "从 AIJingzhun 产品提示词包拆分出的 36 个智能体，已直接并入 AI内容目录，按 aijingzhun-01 到 aijingzhun-36 排序，覆盖短视频文案、人设风格、平台专精、行业垂直、直播转化、私域成交、AI绘画、数据复盘和爆款重构。",
+        "title": "36 个内容与运营提示词",
+        "description": "新增的 36 个提示词已直接并入 AI内容目录，采用与仓库其他文件一致的命名方式，覆盖短视频文案、人设风格、平台运营、行业内容、直播转化、私域成交、AI绘画、数据复盘和爆款重构。",
         "href": f"{REPO_URL}/blob/main/prompts/06-ai-content/README.md",
-        "meta": "36 agents",
+        "meta": "36 个",
     },
 ]
 
@@ -891,7 +891,7 @@ def build_html(prompts: list[Prompt]) -> str:
       <div class="hero-grid">
         <div>
           <h1>提示词类型与代表提示词导航</h1>
-          <p>从当前开源库中抽取 9 类提示词结构，展示每类的用途、规模和代表样例。当前重点推荐「智能元提示词生成系统 V0.6」；「AI精准 36 个提示词 V2.1」已直接并入 AI内容目录并按编号排序，方便浏览、复制和持续维护。</p>
+          <p>从当前开源库中抽取 9 类提示词结构，展示每类的用途、规模和代表样例。当前重点推荐「智能元提示词生成系统 V0.6」；新增的 36 个内容与运营提示词已直接并入 AI内容目录，方便浏览、复制和持续维护。</p>
           <div class="hero-actions">
             <a class="button" href="#AI方法">查看类型</a>
             <a class="button secondary" href="{REPO_URL}/blob/main/CATALOG.md" target="_blank" rel="noreferrer">完整目录</a>

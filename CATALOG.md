@@ -11,7 +11,7 @@
 | AI学习 | 11 | 学习方法、记忆术、费曼提问、习惯养成和学习助理。 |
 | AI生活 | 2 | 健康、亲子歌曲等生活场景。 |
 | AI教育 | 4 | 儿童教育、互动学习页面和小游戏创作。 |
-| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、AI精准智能体、图像和 PPT 创意。 |
+| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
 | AI编程 | 1 | 架构设计和编程协作。 |
 | AI营销 | 3 | GEO 内容生成、改写、Schema.org 结构化数据和营销增长。 |
 | AI思考 | 3 | 批判思维、记忆、标题和思维类灵感提示词。 |
@@ -55,54 +55,54 @@
 | AI教育 | 儿童游戏 | [儿童小游戏：像素赛车躲避游戏](prompts/05-ai-education/children-games/child-game-pixel-racing.md) | active | 儿童游戏 |
 | AI教育 | 儿童游戏 | [儿童小游戏：鲨鱼抓小鱼](prompts/05-ai-education/children-games/child-game-shark-fish.md) | active | 儿童游戏 |
 | AI教育 | 儿童学习 | [儿童互动学习页面生成提示词](prompts/05-ai-education/children-learning-page-lisp.md) | active | 儿童学习 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 01：钩子开场文案](prompts/06-ai-content/aijingzhun-01-hook-opening-copy.md) | active | AI精准 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 02：7秒起号文案](prompts/06-ai-content/aijingzhun-02-seven-second-account-launch-copy.md) | active | AI精准 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 03：文案爆款开头](prompts/06-ai-content/aijingzhun-03-viral-opening-copy.md) | active | AI精准 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 04：口播爆款文案](prompts/06-ai-content/aijingzhun-04-spoken-viral-script.md) | active | AI精准 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 05：高互动文案](prompts/06-ai-content/aijingzhun-05-high-engagement-copy.md) | active | AI精准 |
-| AI内容 | AI精准/第一类/文案创作类 | [AI精准智能体 06：金枪大爷文案](prompts/06-ai-content/aijingzhun-06-jinqiang-daye-style-copy.md) | active | AI精准 |
-| AI内容 | AI精准/第二类/人设风格类 | [AI精准智能体 07：生活建议师](prompts/06-ai-content/aijingzhun-07-life-advice-blogger.md) | active | AI精准 |
-| AI内容 | AI精准/第二类/人设风格类 | [AI精准智能体 08：暖男博主](prompts/06-ai-content/aijingzhun-08-warm-male-blogger.md) | active | AI精准 |
-| AI内容 | AI精准/第二类/人设风格类 | [AI精准智能体 09：嘴替博主](prompts/06-ai-content/aijingzhun-09-mouthpiece-blogger.md) | active | AI精准 |
-| AI内容 | AI精准/第三类/功能工具类 | [AI精准智能体 10：标题优化师](prompts/06-ai-content/aijingzhun-10-title-optimizer.md) | active | AI精准 |
-| AI内容 | AI精准/第三类/功能工具类 | [AI精准智能体 11：选题策划师](prompts/06-ai-content/aijingzhun-11-topic-planner.md) | active | AI精准 |
-| AI内容 | AI精准/第三类/功能工具类 | [AI精准智能体 12：对标分析师](prompts/06-ai-content/aijingzhun-12-benchmark-analyst.md) | active | AI精准 |
-| AI内容 | AI精准/第四类/平台专精类 | [AI精准智能体 13：抖音爆款策划师](prompts/06-ai-content/aijingzhun-13-douyin-viral-planner.md) | active | AI精准 |
-| AI内容 | AI精准/第四类/平台专精类 | [AI精准智能体 14：B站UP主助手](prompts/06-ai-content/aijingzhun-14-bilibili-up-assistant.md) | active | AI精准 |
-| AI内容 | AI精准/第四类/平台专精类 | [AI精准智能体 15：公众号写作专家](prompts/06-ai-content/aijingzhun-15-wechat-article-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第四类/平台专精类 | [AI精准智能体 16：视频号运营师](prompts/06-ai-content/aijingzhun-16-video-account-operator.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 17：母婴育儿内容专家](prompts/06-ai-content/aijingzhun-17-parenting-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 18：美食探店内容专家](prompts/06-ai-content/aijingzhun-18-food-review-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 19：健身运动内容专家](prompts/06-ai-content/aijingzhun-19-fitness-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 20：穿搭时尚内容专家](prompts/06-ai-content/aijingzhun-20-fashion-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 21：旅行攻略内容专家](prompts/06-ai-content/aijingzhun-21-travel-guide-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 22：职场干货内容专家](prompts/06-ai-content/aijingzhun-22-workplace-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 23：个人理财内容专家](prompts/06-ai-content/aijingzhun-23-personal-finance-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 24：宠物内容专家](prompts/06-ai-content/aijingzhun-24-pet-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 25：家居装修内容专家](prompts/06-ai-content/aijingzhun-25-home-decoration-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 26：教育学习内容专家](prompts/06-ai-content/aijingzhun-26-education-learning-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 27：情感关系内容专家](prompts/06-ai-content/aijingzhun-27-relationship-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第五类/行业垂直类 | [AI精准智能体 28：科技数码内容专家](prompts/06-ai-content/aijingzhun-28-tech-digital-content-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 29：直播脚本策划师](prompts/06-ai-content/aijingzhun-29-livestream-script-planner.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 30：小红书爆款图文专家](prompts/06-ai-content/aijingzhun-30-xiaohongshu-graphic-expert.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 31：私域成交话术专家](prompts/06-ai-content/aijingzhun-31-private-domain-sales-script.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 32：AI绘画提示词生成器](prompts/06-ai-content/aijingzhun-32-ai-image-prompt-generator.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 33：评论区运营专家](prompts/06-ai-content/aijingzhun-33-comment-section-operator.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 34：采访/访谈提纲策划师](prompts/06-ai-content/aijingzhun-34-interview-outline-planner.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 35：数据复盘诊断师](prompts/06-ai-content/aijingzhun-35-content-data-review-diagnostician.md) | active | AI精准 |
-| AI内容 | AI精准/第六类/运营变现与辅助类 | [AI精准智能体 36：爆款仿写拆解与重构专家](prompts/06-ai-content/aijingzhun-36-viral-remix-deconstruction-rewriter.md) | active | AI精准 |
+| AI内容 | 运营辅助 | [AI绘画提示词生成器](prompts/06-ai-content/ai-image-prompt-generator.md) | active | AI绘画 |
+| AI内容 | 人设风格 | [用户心声表达博主](prompts/06-ai-content/audience-voice-blogger.md) | active | 共鸣表达 |
+| AI内容 | 内容工具 | [对标分析师](prompts/06-ai-content/benchmark-analyst.md) | active | 对标分析 |
+| AI内容 | 平台运营 | [B站UP主助手](prompts/06-ai-content/bilibili-up-assistant.md) | active | B站 |
+| AI内容 | 运营辅助 | [评论区运营专家](prompts/06-ai-content/comment-section-operator.md) | active | 评论区 |
+| AI内容 | 运营辅助 | [数据复盘诊断师](prompts/06-ai-content/content-data-review-diagnostician.md) | active | 数据复盘 |
 | AI内容 | 视频创意 | [切万物视频提示词生成器](prompts/06-ai-content/cut-everything-video-generator.md) | active | 视频创意 |
+| AI内容 | 平台运营 | [抖音爆款策划师](prompts/06-ai-content/douyin-viral-planner.md) | active | 抖音 |
+| AI内容 | 行业内容 | [教育学习内容专家](prompts/06-ai-content/education-learning-content-expert.md) | active | 教育学习 |
+| AI内容 | 行业内容 | [穿搭时尚内容专家](prompts/06-ai-content/fashion-content-expert.md) | active | 穿搭时尚 |
+| AI内容 | 行业内容 | [健身运动内容专家](prompts/06-ai-content/fitness-content-expert.md) | active | 健身运动 |
+| AI内容 | 行业内容 | [美食探店内容专家](prompts/06-ai-content/food-review-content-expert.md) | active | 美食探店 |
+| AI内容 | 文案创作 | [高互动文案](prompts/06-ai-content/high-engagement-copy.md) | active | 短视频 |
+| AI内容 | 行业内容 | [家居装修内容专家](prompts/06-ai-content/home-decoration-content-expert.md) | active | 家居装修 |
+| AI内容 | 文案创作 | [钩子开场文案](prompts/06-ai-content/hook-opening-copy.md) | active | 短视频 |
 | AI内容 | 文章润色 | [智能文章润色系统 V3.0](prompts/06-ai-content/humanized-writing/humanized-writing-polish-v3.md) | active | 文章润色 |
 | AI内容 | 写作 | [AI写作自然化提示词 V1.0](prompts/06-ai-content/humanized-writing/humanized-writing-v1.md) | active | 写作 |
 | AI内容 | 写作 | [AI写作自然化提示词 V2.0](prompts/06-ai-content/humanized-writing/humanized-writing-v2.md) | active | 写作 |
+| AI内容 | 运营辅助 | [采访/访谈提纲策划师](prompts/06-ai-content/interview-outline-planner.md) | active | 采访提纲 |
 | AI内容 | 写作 | [知识库AI写作法](prompts/06-ai-content/knowledge-base-writing-rebuilder.md) | active | 知识库 |
+| AI内容 | 人设风格 | [生活建议师](prompts/06-ai-content/life-advice-blogger.md) | active | 生活建议 |
+| AI内容 | 运营辅助 | [直播脚本策划师](prompts/06-ai-content/livestream-script-planner.md) | active | 直播脚本 |
 | AI内容 | 写作 | [医疗科普文章生成提示词](prompts/06-ai-content/medical-popular-science-article-generator.md) | active | 医疗科普 |
 | AI内容 | Nano Banana PPT | [Nano Banana PPT 场景提示词合集](prompts/06-ai-content/nano-banana-ppt.md) | active | Nano Banana |
 | AI内容 | Nano Banana | [50个 Nano Banana 创意提示词](prompts/06-ai-content/nano-banana.md) | active | Nano Banana |
+| AI内容 | 行业内容 | [母婴育儿内容专家](prompts/06-ai-content/parenting-content-expert.md) | active | 母婴育儿 |
+| AI内容 | 行业内容 | [个人理财内容专家](prompts/06-ai-content/personal-finance-content-expert.md) | active | 个人理财 |
+| AI内容 | 行业内容 | [宠物内容专家](prompts/06-ai-content/pet-content-expert.md) | active | 宠物 |
+| AI内容 | 运营辅助 | [私域成交话术专家](prompts/06-ai-content/private-domain-sales-script.md) | active | 私域成交 |
+| AI内容 | 行业内容 | [情感关系内容专家](prompts/06-ai-content/relationship-content-expert.md) | active | 情感关系 |
 | AI内容 | 仿写 | [三毛风格回忆录生成器](prompts/06-ai-content/sanmao-style-memoir-generator.md) | active | 仿写 |
+| AI内容 | 文案创作 | [7秒起号文案](prompts/06-ai-content/seven-second-account-launch-copy.md) | active | 短视频 |
+| AI内容 | 文案创作 | [犀利观点文案](prompts/06-ai-content/sharp-commentary-copy.md) | active | 人设风格 |
 | AI内容 | 视频创意 | [Sora2主人公视频创意生成器](prompts/06-ai-content/sora2-character-video-ideas.md) | active | Sora2 |
+| AI内容 | 文案创作 | [口播爆款文案](prompts/06-ai-content/spoken-viral-script.md) | active | 短视频 |
+| AI内容 | 行业内容 | [科技数码内容专家](prompts/06-ai-content/tech-digital-content-expert.md) | active | 科技数码 |
 | AI内容 | 标题 | [标题炼金术师（内容创作版）](prompts/06-ai-content/title-alchemist-content.md) | active | 标题 |
+| AI内容 | 内容工具 | [标题优化师](prompts/06-ai-content/title-optimizer.md) | active | 标题 |
+| AI内容 | 内容工具 | [选题策划师](prompts/06-ai-content/topic-planner.md) | active | 选题 |
+| AI内容 | 行业内容 | [旅行攻略内容专家](prompts/06-ai-content/travel-guide-content-expert.md) | active | 旅行攻略 |
+| AI内容 | 平台运营 | [视频号运营师](prompts/06-ai-content/video-account-operator.md) | active | 视频号 |
+| AI内容 | 文案创作 | [文案爆款开头](prompts/06-ai-content/viral-opening-copy.md) | active | 短视频 |
+| AI内容 | 运营辅助 | [爆款仿写拆解与重构专家](prompts/06-ai-content/viral-remix-deconstruction-rewriter.md) | active | 爆款拆解 |
+| AI内容 | 人设风格 | [温暖陪伴博主](prompts/06-ai-content/warm-conversation-blogger.md) | active | 情感陪伴 |
+| AI内容 | 平台运营 | [公众号写作专家](prompts/06-ai-content/wechat-article-expert.md) | active | 公众号 |
 | AI内容 | 公众号 | [微信公众号文章HTML生成器](prompts/06-ai-content/wechat-article-html-generator.md) | active | 微信公众号 |
+| AI内容 | 行业内容 | [职场干货内容专家](prompts/06-ai-content/workplace-content-expert.md) | active | 职场干货 |
+| AI内容 | 平台运营 | [小红书爆款图文专家](prompts/06-ai-content/xiaohongshu-graphic-expert.md) | active | 小红书 |
 | AI内容 | 标题 | [小红书爆款标题生成器](prompts/06-ai-content/xiaohongshu-title-generator.md) | active | 小红书 |
 | AI编程 | 架构 | [AI智能架构师](prompts/07-ai-coding/ai-system-architect.md) | active | 架构设计 |
 | AI营销 | GEO | [GEO文章生成系统](prompts/08-ai-marketing/geo-article-generator.md) | active | GEO |

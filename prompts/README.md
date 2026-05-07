@@ -9,7 +9,7 @@
 - `03-ai-learning`：学习方法、记忆术、费曼提问、习惯养成
 - `04-ai-life`：健康、亲子歌曲等生活场景
 - `05-ai-education`：儿童教育、互动学习页面和游戏创作
-- `06-ai-content`：写作、润色、标题、公众号 HTML、短视频、AI精准智能体、图像和 PPT 创意
+- `06-ai-content`：写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意
 - `07-ai-coding`：架构与编程协作
 - `08-ai-marketing`：GEO 内容生成、改写与 Schema.org 结构化数据优化
 - `09-ai-thinking`：批判思维、记忆和标题灵感类提示词
