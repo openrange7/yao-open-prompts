@@ -1,6 +1,6 @@
 # 提示词目录
 
-当前共拆分出 **116** 个提示词文件。
+当前共拆分出 **117** 个提示词文件。
 
 ## 分类统计
 
@@ -11,7 +11,7 @@
 | AI学习 | 11 | 学习方法、记忆术、费曼提问、习惯养成和学习助理。 |
 | AI生活 | 2 | 健康、亲子歌曲等生活场景。 |
 | AI教育 | 4 | 儿童教育、互动学习页面和小游戏创作。 |
-| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
+| AI内容 | 50 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
 | AI编程 | 1 | 架构设计和编程协作。 |
 | AI营销 | 28 | GEO 内容生成、结构化数据、信源建设、数据监测、增长诊断和合规风险。 |
 | AI思考 | 3 | 批判思维、记忆、标题和思维类灵感提示词。 |
@@ -101,6 +101,7 @@
 | AI内容 | 人设风格 | [温暖陪伴博主](prompts/06-ai-content/warm-conversation-blogger.md) | active | 情感陪伴 |
 | AI内容 | 平台运营 | [公众号写作专家](prompts/06-ai-content/wechat-article-expert.md) | active | 公众号 |
 | AI内容 | 公众号 | [微信公众号文章HTML生成器](prompts/06-ai-content/wechat-article-html-generator.md) | active | 微信公众号 |
+| AI内容 | 内容工具 | [宽幅知识插画信息图生成器](prompts/06-ai-content/wide-knowledge-infographic-generator.md) | active | 信息图 |
 | AI内容 | 行业内容 | [职场干货内容专家](prompts/06-ai-content/workplace-content-expert.md) | active | 职场干货 |
 | AI内容 | 平台运营 | [小红书爆款图文专家](prompts/06-ai-content/xiaohongshu-graphic-expert.md) | active | 小红书 |
 | AI内容 | 标题 | [小红书爆款标题生成器](prompts/06-ai-content/xiaohongshu-title-generator.md) | active | 小红书 |

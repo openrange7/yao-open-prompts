@@ -94,6 +94,7 @@ REPRESENTATIVE_SLUGS = {
         "hook-opening-copy",
         "spoken-viral-script",
         "topic-planner",
+        "wide-knowledge-infographic-generator",
         "douyin-viral-planner",
         "xiaohongshu-graphic-expert",
         "content-data-review-diagnostician",
@@ -146,10 +147,10 @@ COLLECTIONS = [
     },
     {
         "kicker": "English",
-        "title": "English README and 116 Prompts",
-        "description": "英文说明文档与 116 个英文提示词已放在 prompts-en 独立目录中，路径与中文提示词库一一对应，便于海外读者直接浏览和复制使用。",
+        "title": "English README and 117 Prompts",
+        "description": "英文说明文档与 117 个英文提示词已放在 prompts-en 独立目录中，路径与中文提示词库一一对应，便于海外读者直接浏览和复制使用。",
         "href": f"{REPO_URL}/blob/main/prompts-en/README.md",
-        "meta": "116 EN",
+        "meta": "117 EN",
     },
     {
         "kicker": "AI营销",
@@ -913,7 +914,7 @@ def build_html(prompts: list[Prompt]) -> str:
       <div class="hero-grid">
         <div>
           <h1>提示词类型与代表提示词导航</h1>
-          <p>从当前开源库中抽取 9 类提示词结构，展示每类的用途、规模和代表样例。当前重点推荐「智能元提示词生成系统 V0.6」；新增的 36 个内容与运营提示词已直接并入 AI内容目录，AI营销目录也新增 25 个 GEO 实战模板，并同步提供 116 个英文提示词镜像入口。</p>
+          <p>从当前开源库中抽取 9 类提示词结构，展示每类的用途、规模和代表样例。当前重点推荐「智能元提示词生成系统 V0.6」；新增的 36 个内容与运营提示词已直接并入 AI内容目录，AI营销目录也新增 25 个 GEO 实战模板，并同步提供 117 个英文提示词镜像入口。</p>
           <div class="hero-actions">
             <a class="button" href="#AI方法">查看类型</a>
             <a class="button secondary" href="{REPO_URL}/blob/main/CATALOG.md" target="_blank" rel="noreferrer">完整目录</a>

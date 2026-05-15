@@ -2,7 +2,7 @@
 
 Writing, copywriting, platform operations, industry content, image prompts, and content review.
 
-Prompt files: **49**.
+Prompt files: **50**.
 
 | Prompt | Subcategory | Source |
 | --- | --- | --- |
@@ -52,6 +52,7 @@ Prompt files: **49**.
 | [Warm Conversation Blogger](warm-conversation-blogger.md) | Persona Style | `prompts/06-ai-content/warm-conversation-blogger.md` |
 | [WeChat Article Expert](wechat-article-expert.md) | Platform Operations | `prompts/06-ai-content/wechat-article-expert.md` |
 | [WeChat Article HTML Generator](wechat-article-html-generator.md) | 06 AI Content | `prompts/06-ai-content/wechat-article-html-generator.md` |
+| [Wide Knowledge Infographic Illustration Generator](wide-knowledge-infographic-generator.md) | Content Tools | `prompts/06-ai-content/wide-knowledge-infographic-generator.md` |
 | [Workplace Content Expert](workplace-content-expert.md) | Industry Content | `prompts/06-ai-content/workplace-content-expert.md` |
 | [Xiaohongshu Graphic Expert](xiaohongshu-graphic-expert.md) | Platform Operations | `prompts/06-ai-content/xiaohongshu-graphic-expert.md` |
 | [Xiaohongshu Title Generator](xiaohongshu-title-generator.md) | 06 AI Content | `prompts/06-ai-content/xiaohongshu-title-generator.md` |

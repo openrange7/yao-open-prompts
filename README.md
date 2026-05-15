@@ -4,15 +4,17 @@
 
 《姚金刚提示词合集》的开源版本，一个面向真实工作、学习、内容、营销和生活场景的中文 AI 提示词库。
 
-本仓库从原始合集文档和后续提示词目录中整理出 **116** 个中文提示词文件，并按场景重新分类。每个提示词保留可复制的正文，去除了原文中不适合放入开源仓库主体的教程推广、效果截图、视频附件说明和 HTML 样式残留。
+本仓库从原始合集文档和后续提示词目录中整理出 **117** 个中文提示词文件，并按场景重新分类。每个提示词保留可复制的正文，去除了原文中不适合放入开源仓库主体的教程推广、效果截图、视频附件说明和 HTML 样式残留。
 
 系列型内容会优先合并成主题合集，例如 `50个 Nano Banana 创意提示词` 和 `Nano Banana PPT 场景提示词合集`，避免仓库目录被大量零散短提示词打散。
 
-近期补充重点来自 `05-Prompts/Generators`、`05-Prompts/Meta`、`05-Prompts/GEO`、`05-Prompts/Scenarios/Learning`、`05-Prompts/Products` 和《AI营销：从SEO到GEO》提示词合集：新增了合同生成、产品原型、网页 PPT V3、公众号 HTML、Schema.org GEO、网页逆向、费曼提问学习、批判思维、36 个内容与运营类实战提示词，以及 25 个 GEO 营销实战模板。
+近期补充重点来自 `05-Prompts/Generators`、`05-Prompts/Meta`、`05-Prompts/GEO`、`05-Prompts/Scenarios/Learning`、`05-Prompts/Products` 和《AI营销：从SEO到GEO》提示词合集：新增了合同生成、产品原型、网页 PPT V3、公众号 HTML、Schema.org GEO、网页逆向、费曼提问学习、批判思维、36 个内容与运营类实战提示词、25 个 GEO 营销实战模板，以及宽幅知识插画信息图生成器。
 
 ## 重点推荐
 
 **[智能元提示词生成系统 V0.6](prompts/01-ai-methods/rtf-meta-prompt-system-v06.md)**：基于 RTF 框架，把需求分析、角色工程、任务架构、格式规范和质量评估串成一套可复用流程，适合作为生成高质量提示词的起点。
+
+**[宽幅知识插画信息图生成器](prompts/06-ai-content/wide-knowledge-infographic-generator.md)**：把一段文案提炼为适合社交媒体和 PPT 展示的宽幅知识插画信息图，强调结构提炼、视觉分层和中文可读性。
 
 ## 专题入口
 
@@ -20,7 +22,7 @@
 
 **[25 个 GEO 营销实战模板](prompts/08-ai-marketing/README.md)**：从《AI营销：从SEO到GEO》提示词合集拆分，覆盖机会判断、原理分析、内容工程、信源建设、数据监测、增长诊断和合规风险。
 
-**[English README](README.en.md)**：英文说明文档入口，对应导航到 [116 个英文提示词](prompts-en/README.md)，英文提示词按 `prompts/` 的相同路径完整镜像在 `prompts-en/` 下。
+**[English README](README.en.md)**：英文说明文档入口，对应导航到 [117 个英文提示词](prompts-en/README.md)，英文提示词按 `prompts/` 的相同路径完整镜像在 `prompts-en/` 下。
 
 ## 仓库结构
 
@@ -47,7 +49,7 @@ CONTRIBUTING.md         # 贡献和持续迭代规则
 | AI学习 | 11 | 学习方法、记忆术、费曼提问、习惯养成和学习助理。 |
 | AI生活 | 2 | 健康、亲子歌曲等生活场景。 |
 | AI教育 | 4 | 儿童教育、互动学习页面和小游戏创作。 |
-| AI内容 | 49 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
+| AI内容 | 50 | 写作、润色、标题、公众号 HTML、短视频、内容运营、图像和 PPT 创意。 |
 | AI编程 | 1 | 架构设计和编程协作。 |
 | AI营销 | 28 | GEO 内容生成、结构化数据、信源建设、数据监测、增长诊断和合规风险。 |
 | AI思考 | 3 | 批判思维、记忆、标题和思维类灵感提示词。 |
